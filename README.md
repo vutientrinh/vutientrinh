@@ -23,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vutientrinh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&repo=e-commerce-app)](https://github.com/vutientrinh/e-commerce-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=radical&repo=e-commerce-app)](https://github.com/vutientrinh/e-commerce-app)
