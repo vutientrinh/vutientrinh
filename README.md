@@ -1,5 +1,5 @@
 ## Welcome to my page 👋
-### My name is Vu Tien Trinh - Software Engineer. I studied at Ho Chi Minh City of Technology and Education ( HCMUTE ). I'm learning to become a Fullstack Engineer>
+### My name is Vu Tien Trinh - Software Engineer. I'm studying at Ho Chi Minh City of Technology and Education ( HCMUTE ). I'm learning to become a Fullstack Engineer>
 
 
 ## 🌐How to reach me:
