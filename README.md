@@ -1,5 +1,5 @@
 ## Welcome to my page 👋
-# My name is Vu Tien Trinh - Software Engineer. I studied at Ho Chi Minh City of Technology and Education ( HCMUTE ). I'm learning to become a Fullstack Engineer>
+### My name is Vu Tien Trinh - Software Engineer. I studied at Ho Chi Minh City of Technology and Education ( HCMUTE ). I'm learning to become a Fullstack Engineer>
 
 
 ## 🌐How to reach me:
@@ -14,9 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vutientrinh&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
