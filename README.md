@@ -19,11 +19,36 @@
 
 </div>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=vutientrinh&icon=0&color=0" alt="Profile views" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vutientrinh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=merko&repo=Capstone)](https://github.com/vutientrinh/Capstone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=tokyonight&repo=e-commerce-app)](https://github.com/vutientrinh/e-commerce-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=onedark&repo=flutter-social-share)](https://github.com/vutientrinh/flutter-social-share)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=cobalt&repo=app-chat-springboot-realtime)](https://github.com/vutientrinh/app-chat-springboot-realtime)
+<div align="center">
+
+## 🔥 My Highlight Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; max-width: 800px; margin: auto;">
+
+<a href="https://github.com/vutientrinh/Capstone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=merko&repo=Capstone" />
+</a>
+
+<a href="https://github.com/vutientrinh/e-commerce-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=tokyonight&repo=e-commerce-app" />
+</a>
+
+<a href="https://github.com/vutientrinh/flutter-social-share">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=onedark&repo=flutter-social-share" />
+</a>
+
+<a href="https://github.com/vutientrinh/app-chat-springboot-realtime">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=cobalt&repo=app-chat-springboot-realtime" />
+</a>
+
+</div>
+
+</div>
