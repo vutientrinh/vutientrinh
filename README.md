@@ -23,4 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vutientrinh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=radical&repo=e-commerce-app)](https://github.com/vutientrinh/e-commerce-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=merko&repo=Capstone)](https://github.com/vutientrinh/Capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=tokyonight&repo=e-commerce-app)](https://github.com/vutientrinh/e-commerce-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=onedark&repo=flutter-social-share)](https://github.com/vutientrinh/flutter-social-share)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=cobalt&repo=app-chat-springboot-realtime)](https://github.com/vutientrinh/app-chat-springboot-realtime)
