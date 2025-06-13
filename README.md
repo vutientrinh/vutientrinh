@@ -27,28 +27,30 @@
 
 ---
 ## 🔥 My Highlight Projects
-<div align="center">
 
-
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; max-width: 800px; margin: auto;">
-
-<a href="https://github.com/vutientrinh/Capstone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=merko&repo=Capstone" />
-</a>
-
-<a href="https://github.com/vutientrinh/e-commerce-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=tokyonight&repo=e-commerce-app" />
-</a>
-
-<a href="https://github.com/vutientrinh/flutter-social-share">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=onedark&repo=flutter-social-share" />
-</a>
-
-<a href="https://github.com/vutientrinh/app-chat-springboot-realtime">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=cobalt&repo=app-chat-springboot-realtime" />
-</a>
-
-</div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/Capstone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=merko&repo=Capstone" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/e-commerce-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=tokyonight&repo=e-commerce-app" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/flutter-social-share">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=onedark&repo=flutter-social-share" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/app-chat-springboot-realtime">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=cobalt&repo=app-chat-springboot-realtime" />
+      </a>
+    </td>
+  </tr>
+</table>
