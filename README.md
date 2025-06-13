@@ -1,5 +1,5 @@
 ## Welcome to my page 👋
-### My name is Vu Tien Trinh - Software Engineer. I'm studying at Ho Chi Minh City of Technology and Education ( HCMUTE ). I'm learning to become a Fullstack Engineer>
+### My name is Vu Tien Trinh - Software Engineer. I'm studying at Ho Chi Minh City of Technology and Education ( HCMUTE ). I'm learning to become a Fullstack Engineer
 
 
 ## 🌐How to reach me:
@@ -45,6 +45,19 @@
     <td align="center">
       <a href="https://github.com/vutientrinh/app-chat-springboot-realtime">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=cobalt&repo=app-chat-springboot-realtime" />
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/Cafeproject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=ocean_dark&repo=Cafeproject" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/SocialApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=github_dark&repo=SocialApp" />
       </a>
     </td>
   </tr>
