@@ -51,14 +51,15 @@
   
   <tr>
     <td align="center">
-      <a href="https://github.com/vutientrinh/Cafeproject">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=ocean_dark&repo=Cafeproject" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vutientrinh/SocialApp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=github_dark&repo=SocialApp" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/vutientrinh/Cafeproject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vutientrinh&theme=ocean_dark&repo=Cafeproject" />
+      </a>
+    </td>
+    
   </tr>
 </table>
