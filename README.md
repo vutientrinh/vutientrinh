@@ -25,14 +25,13 @@
 
 I'm a Backend Software Engineer based in **Ho Chi Minh City**, with nearly 2 years of experience building services in **Java** and **Spring Boot**.
 
-| | |
-| :-- | :-- |
-| 💼 **Now** | Software Engineer at **WALA_ICT** (since Jul 2025): multi-tenant SaaS, AI content pipelines, microservice deployments |
-| 🧱 **Data integrity** | Schemas and constraints that keep data consistent at the database level |
-| ⚡ **Responsiveness** | Long-running work moved into asynchronous processing so APIs stay fast |
-| 🎓 **Education** | B.Sc. in Information Technology, HCMUTE (2021 – 2025) |
-| ☸️ **Certified** | Google Kubernetes Engine (2025) |
-| 🌐 **More** | **[vutientrinh-portfolio.vercel.app](https://vutientrinh-portfolio.vercel.app/)** |
+
+- 💼 **Now:** Software Engineer at **WALA_ICT** since Jul 2025, working on multi-tenant SaaS, AI content pipelines and microservice deployments
+- 🧱 **Data integrity:** schemas and constraints that keep data consistent at the database level
+- ⚡ **Responsiveness:** long-running work moved into asynchronous processing so APIs stay fast
+- 🎓 **Education:** B.Sc. in Information Technology, HCMUTE (2021 – 2025)
+- ☸️ **Certified:** Google Kubernetes Engine (2025)
+- 🌐 **More:** **[vutientrinh-portfolio.vercel.app](https://vutientrinh-portfolio.vercel.app/)**
 
 <br />
 
