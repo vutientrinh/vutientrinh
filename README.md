@@ -38,7 +38,7 @@ I'm a Backend Software Engineer based in **Ho Chi Minh City**, with nearly 2 yea
 
 ## 🛠️ Tech stack
 
-<div align="center">
+<div align="left">
 
 ### ☕ Backend
 
